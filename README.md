@@ -4,6 +4,12 @@ A fully functional **two-player chess game** built using **HTML, CSS, and JavaSc
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://vivekroy8584-sketch.github.io/Chess/
+
+---
+
 ## 🚀 Features
 
 - ♜ Complete chess rules implementation  
@@ -22,9 +28,9 @@ A fully functional **two-player chess game** built using **HTML, CSS, and JavaSc
 
 ---
 
-## 🖥️ Demo Controls
+## 🖥️ Controls
 
-### 🎮 Keyboard Controls
+### 🎮 Keyboard
 
 | Key | Action |
 |-----|--------|
@@ -36,7 +42,7 @@ A fully functional **two-player chess game** built using **HTML, CSS, and JavaSc
 
 ---
 
-### 🖱️ Mouse Controls
+### 🖱️ Mouse
 
 - Click a piece → Select  
 - Click a valid square → Move  
@@ -45,7 +51,7 @@ A fully functional **two-player chess game** built using **HTML, CSS, and JavaSc
 
 ## 🧠 Game Logic
 
-The game implements:
+This project implements:
 
 - Piece movement rules (Pawn, Rook, Knight, Bishop, Queen, King)  
 - Castling (King-side & Queen-side)  
@@ -58,13 +64,13 @@ The game implements:
 ---
 
 ## 📂 Project Structure
+index.html 
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run Locally
 
-1. Download or clone the project  
-2. Open the file:
+1. Clone the repository:
 
 ```bash
-two_player_chess_keyboard.html
+git clone https://github.com/vivekroy8584-sketch/Chess.git
