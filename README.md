@@ -58,3 +58,13 @@ The game implements:
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ⚙️ How to Run
+
+1. Download or clone the project  
+2. Open the file:
+
+```bash
+two_player_chess_keyboard.html
